@@ -1,2 +1,2 @@
 # Power-BI-projects
-This repository consists of all the projects I have completed on Power BI
+This repository consists of AXON sales report file I have created on Power BI
